@@ -43,6 +43,9 @@ System.out.println("Hello World!");
 }
 ```
 
-> Fourscore and seven yearsago, 
+> Fourscore and seven years ago, 
+
 > our fathers brought forth 
+
 > on this continent..
+
