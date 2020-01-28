@@ -2,4 +2,4 @@
 ## This is an H2 or a Header 2
 ### This is an H3 or a Header 3
 This is a horizontal rule.
-___ ---
+___
