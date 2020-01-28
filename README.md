@@ -49,3 +49,8 @@ System.out.println("Hello World!");
 >
 > on this continent..
 
+| Tables     |    Are    |       Nifty |
+| ---------- | :-------: | ----------: |
+| col #1 | is | left-aligned |
+| col #2 | is | centered |
+| col #3 | is | right-aligned |
