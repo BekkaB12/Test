@@ -36,3 +36,7 @@ __3.__ This is a third item
 
 #### Image:
 ![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Octocat")
+
+'''java
+System.out.println("Hello World!");
+'''
