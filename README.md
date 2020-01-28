@@ -27,3 +27,7 @@ __3.__ This is a third item
 * Unordered item B
 
 * Unordered item C
+
+#### Inline Link:
+
+[This is an inline link with title](http://github.com "Github")
