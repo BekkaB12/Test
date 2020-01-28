@@ -35,4 +35,4 @@ __3.__ This is a third item
 [This is a relative reference link](/README.md "Read Me")
 
 #### Image:
-![Octocat](https://github.githubassets.com/images/modules/logs_page/Octocat.png "Octocat")
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Octocat")
