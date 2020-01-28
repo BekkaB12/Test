@@ -33,3 +33,6 @@ __3.__ This is a third item
 [This is an inline link with title](http://github.com "Github")
 
 [This is a relative reference link](/README.md "Read Me")
+
+#### Image:
+![Octocat](http://github.githubassets.com/images/modules/logs_page/Octocat.img "Octocat")
