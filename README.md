@@ -4,5 +4,7 @@
 This is a horizontal rule:
 ___
 For _italics_, use preceding and trailing underscore
+
 For __BOLD__, use 2 underscore before and after
+
 For ~~Strikethrough~~, use 2 preceding and trailing tildes
