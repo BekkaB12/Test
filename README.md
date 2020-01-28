@@ -57,7 +57,9 @@ ___
 | col #3 | is | right-aligned |
 
 ___
-[x] To-do #1
-[] To-do #2
-[] To-do #3
+-[x] To-do #1
+
+-[] To-do #2
+
+-[] To-do #3
 
