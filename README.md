@@ -10,7 +10,7 @@ For __BOLD__, use 2 underscore before and after
 For ~~Strikethrough~~, use 2 preceding and trailing tildes
 
 #### Ordered List:
-1. This is the first item
-2. This is the second item
-* This is an unordered list item
-3. This is a third item
+__1.__ This is the first item
+__2.__ This is the second item
+__*__ This is an unordered list item
+__3.__ This is a third item
